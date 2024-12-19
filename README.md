@@ -1,7 +1,8 @@
-# In this notebook, I utilize Pyspark to analyze flight delays in 2007 and 2008.
+# In this notebook, I utilize Pyspark to analyze crime data in Los Angeles from 2020 to 2024.
 ## My goal is to determine
-* Which locations (Origin and Dest pairs) had the lowest delays for both arrivals (ArrDelay) and departures (DepDelay) - for each year
-* Which locations had fewest amount of delays.
-* Did the holidays have an effect on the size of the delays?
-* What day of the week has the largest delay lengths?
-* If you wanted to ensure you took off at a certain time, what time of day would you pick?
+* The amount of crimes per area
+* The amount of crimes committed over time
+* Seasonality of crime committed
+* Most frequent types of crime committed
+* Types of crime committed over time
+* Correlation between the area and the type of crime committed
